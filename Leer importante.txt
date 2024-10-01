@@ -1,0 +1,9 @@
+🎉 ¡Bienvenido a la rama main! 🎉
+
+Este es el punto de entrada principal, pero
+ todos los cambios activos se están gestionando en la rama master.
+ Si quieres ver o trabajar en las últimas actualizaciones, te recomendamos 
+cambiar a la rama master.
+
+Gracias por contribuir al proyecto, y si tienes alguna duda,
+ no dudes en preguntar. ¡Sigue adelante con el buen trabajo! 🚀
